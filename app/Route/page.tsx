@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function Home() {
+export default function Page() {
   return (
 
     <div className="bg-amber-50 min-h-screen">
